@@ -2,5 +2,5 @@
 Assignment -3
 Related to C# fundamentals
 Topics : 
-        * Optional Arguements
-        * Generics
+	a) Optional Arguements
+	b) Generics
