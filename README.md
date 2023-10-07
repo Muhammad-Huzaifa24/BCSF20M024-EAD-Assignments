@@ -1,3 +1,6 @@
 # BCSF20M024-EAD
-This is my main branch in this Repository.
-I have created new branches for each assignments.
+Assignment -3
+Related to C# fundamentals
+Topics : 
+        * Optional Arguements
+        * Generics
