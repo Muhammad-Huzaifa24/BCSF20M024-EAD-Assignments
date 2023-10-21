@@ -1,3 +1,4 @@
 # BCSF20M024-EAD
-This is my main branch in this Repository.
-I have created new branches for each assignments.
+Assignment #05 --> Perform _CRUD_ operations using **SQL DATA READER** and **SQL DATA ADAPTER**  <br>
+Each operation has two functions version <br> 
+
