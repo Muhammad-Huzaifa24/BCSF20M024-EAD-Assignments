@@ -1,5 +1,5 @@
 This is Assignment-07<br><br>
-`Creational Design Pattern`<br><br>
+`Structural Design Pattern`<br><br>
 This file includes 8 files <br>
 Program.cs (implementation code for each design pattern)<br>
 Remaining files are : <br>
